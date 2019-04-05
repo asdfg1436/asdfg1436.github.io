@@ -4,6 +4,7 @@ modal-id: 1
 date: 2019-03-28
 img: PlanetLightYear.jpg
 icon: PlanetLightYear_Title.png
+video: https://www.youtube.com/embed/d7gvB0WOrnA
 alt: image-alt
 project-date: March 2019
 categories: Game

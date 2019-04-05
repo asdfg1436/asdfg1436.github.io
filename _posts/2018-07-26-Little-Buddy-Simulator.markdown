@@ -4,6 +4,7 @@ modal-id: 2
 date: 2018-07-26
 img: LBS.jpg
 icon: LBS_Title.png
+video: https://www.youtube.com/embed/cwfyXj40X1I
 alt: image-alt
 project-date: June 2018
 categories: Game
