@@ -1,0 +1,24 @@
+---
+layout: default
+modal-id: 3
+date: 2018-04-27
+img: Magieval.jpg
+icon: Magieval_Title.png
+alt: image-alt
+project-date: April 2018
+categories: Game
+description: "Magieval is a 2D real-time single player vs AI battle royale game \ 
+			  where the player needs to explore the world, gather resource and weapon yourself, and then survive to the end. \
+			  There is a safe zone shrinking to force the players to a smaller region for combat. \
+			  All other competitors are AI and they also have similar behaviors like the player.</br>\
+			  </br>\
+			  Magieval is a game developed by a team of 3 programmers in 4 months.</br>\
+			  It was built by custom component based 2D engine in C++/DirectX from scratch."
+role_title: Gameplay programmer
+role: 	[Built the audio engine using DirectXTK.,
+		 Implemented inventory system and weapon system.,
+		 Implemented shrinking safe zone.,
+		 Implemented AI behavior with finite state machine.,
+		 Implemented pathfinding for AI.,
+		 ]
+---
